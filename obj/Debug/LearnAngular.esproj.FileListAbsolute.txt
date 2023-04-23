@@ -1,0 +1,2 @@
+C:\Users\ДМС\source\repos\LearnAngular\obj\Debug\LearnAngular.esproj.SuggestedBindingRedirects.cache
+C:\Users\ДМС\source\repos\LearnAngular\obj\Debug\LearnAngular.esproj.CoreCompileInputs.cache
